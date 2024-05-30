@@ -3,3 +3,4 @@
 /save/*
 20240325*
 /checkpoint/*
+*.keras
